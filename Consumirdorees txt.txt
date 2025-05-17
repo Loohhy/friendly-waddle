@@ -1,0 +1,27 @@
+# Queridos Consumidores - Chatbot Super CDC
+
+Este é o site oficial do **chatbot Super CDC**, criado com a plataforma Voiceflow, voltado para orientar consumidores sobre seus direitos de forma divertida e interativa.
+
+## ?? Como funciona?
+
+Ao acessar o site, clique no ícone de chat no canto inferior direito da tela para conversar com o Super CDC e tirar dúvidas sobre seus direitos como consumidor.
+
+## ?? Estilo do site
+
+- Cores suaves em tons de **marrom claro**
+- Ícones de **caixa de entrega** para representar o consumidor
+- Fontes arredondadas e modernas com **Quicksand**
+- Layout limpo, elegante e acessível
+
+## ?? Acesse o site:
+
+
+## ??? Tecnologias utilizadas
+
+- HTML + CSS
+- Voiceflow (integração do chatbot)
+- GitHub Pages (hospedagem gratuita)
+
+---
+
+Criado com ?? por Direitos dos consumidores
